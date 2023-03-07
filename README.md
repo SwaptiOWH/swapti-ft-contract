@@ -1,6 +1,7 @@
 ### Swapti_FT
 
 CONTRACT=dev-1678227171447-27568759288636
+
 ACCOUNT=yairnava.testnet
 
 Inicializar contrato
